@@ -9,11 +9,6 @@
   </a>
 </div>
 ---
-- 👋 Hi, I’m Dima!  
-- 👨‍💻Study at  IT-college Sirius | Specialty : programmer
-- 🚀 My interests: AI, game development, and apps. 
-- 🎯 I aim to create solutions that make life simpler and more interesting!
----
 <div align="center">
 
 # 👋 Hi, I’m Dima!  
