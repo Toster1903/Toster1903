@@ -8,7 +8,9 @@
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
+
 ---
+
 <div align="center">
 
 # 👋 Hi, I’m Dima!  
