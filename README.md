@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGhxOThpNnVmb2UybmZ3ZWF0NWU4M2wwdmQ0bzQ0ODNvbWp3ajRkMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4knozU8q9AXvpod9qy/giphy.gif" width="800"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGhxOThpNnVmb2UybmZ3ZWF0NWU4M2wwdmQ0bzQ0ODNvbWp3ajRkMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4knozU8q9AXvpod9qy/giphy.gif" width="1000"/>
 </div>
 
 
@@ -15,7 +15,7 @@
 
 <div id="badges" align="center">
   <a href="https://t.me/about_me_dn/6">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram Badge" width="400"/>
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram Badge" width="100"/>
   </a>
 </div>
 
