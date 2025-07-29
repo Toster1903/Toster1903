@@ -61,10 +61,12 @@
   <img src="http://github-readme-streak-stats.herokuapp.com?user=Toster1903&theme=dark&background=000000" alt="GitHub Streak Stats" />
 </a>
 <br>
-![Codewars Badge](https://www.codewars.com/users/Toster1903/badges/large)
-<br>
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toster1903&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
+<br>
+<a href="https://www.codewars.com/users/Toster1903/badges">
+  <img src="https://www.codewars.com/users/Toster1903/badges/large" alt="Code wars">
 </a>
 
 </div>
