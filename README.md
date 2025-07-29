@@ -65,6 +65,8 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toster1903&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
 <br>
+---
+### 🔥 **Code wars:**
 <a href="https://www.codewars.com/users/Toster1903/badges">
   <img src="https://www.codewars.com/users/Toster1903/badges/large" alt="Code wars">
 </a>
