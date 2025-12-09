@@ -1,4 +1,6 @@
-<iframe src="https://giphy.com/embed/gmeJ0ycZbHyQE" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/aferriss-adam-ferriss-glsl-openframeworks-gmeJ0ycZbHyQE">via GIPHY</a></p>
+<img src="https://media.giphy.com/media/gmeJ0ycZbHyQE/giphy.gif" width="1000" height="600" alt="GIF-демо">
+
+
 ---
 
 # Hi, I’m **Dima**
