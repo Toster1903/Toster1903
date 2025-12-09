@@ -1,7 +1,4 @@
-<div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzZ5Zjd4ZHBhYzA2Zm1jNWdrdnJ6ZGgxdW43MDI5YmR5bXpodjk3ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qBJkWD0PtAEdJPp7Xy/giphy.gif" width="600" />
-</div>
-
+<iframe src="https://giphy.com/embed/gmeJ0ycZbHyQE" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/aferriss-adam-ferriss-glsl-openframeworks-gmeJ0ycZbHyQE">via GIPHY</a></p>
 ---
 
 # Hi, I’m **Dima**
