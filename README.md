@@ -1,39 +1,50 @@
 <img src="https://media.giphy.com/media/gmeJ0ycZbHyQE/giphy.gif" width="1000" height="600" alt="GIF-демо">
 
-
 ---
 
 # Hi, I’m **Dima**
-AI Enthusiast | Backend Developer  
+**Middle DWH / BI Analyst at Sber**  
 Studying at **IT College Sirius**, Specialty: **Programmer**
 
 ---
 
 ### 🛠 Tech Stack
 
+**AI & Data**
 <div align="left">
-  <!-- AI & Data -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/numpy/013243" height="40" alt="numpy logo" />
+  <img src="https://cdn.simpleicons.org/numpy/013243" height="40" alt="NumPy" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/pandas/150458" height="40" alt="pandas logo" />
+  <img src="https://cdn.simpleicons.org/pandas/150458" height="40" alt="Pandas" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="40" alt="tensorflow logo" />
+  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="40" alt="TensorFlow" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="40" alt="pytorch logo" />
+  <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="40" alt="PyTorch" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/opencv/5C3EE8" height="40" alt="opencv logo" />
+  <img src="https://cdn.simpleicons.org/opencv/5C3EE8" height="40" alt="OpenCV" />
+</div>
+
+**DWH & BI**
+<div align="left">
+  <img src="https://cdn.simpleicons.org/tableau/E97627" height="40" alt="Tableau" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo" />
+  <img src="https://cdn.simpleicons.org/dbeaver/382923" height="40" alt="DBeaver" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo" />
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="40" alt="PostgreSQL" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="Oracle" />
+</div>
+
+**Backend & Tools**
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="FastAPI" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="Go" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/linux/000000" height="40" alt="linux logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/linux/000000" height="40" alt="Linux" />
 </div>
 
 ---
